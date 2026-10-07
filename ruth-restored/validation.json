@@ -1,0 +1,15 @@
+{
+  "screen_count": 16,
+  "text_margin_warnings": [],
+  "visible_unlayered_text_collision_warnings": [],
+  "contrast_ratios": {
+    "#F4F1E8 on #19362F": 11.55,
+    "#C4D5CA on #19362F": 8.52,
+    "#102923 on #C0DEC5": 10.63,
+    "#102923 on #E6AB70": 7.64,
+    "#638371 on #19362F": 3.12
+  },
+  "main_text_original_background_min_contrast": 4.88,
+  "original_backgrounds_identical": true,
+  "physical_device_low_brightness_test": false
+}
