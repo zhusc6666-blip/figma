@@ -1,36 +1,15 @@
-# 最新：基于用户原稿的局部修改版
+# 最新版本：在用户原稿基础上统一风格
 
-这次直接修改上传的六屏 SVG，保留原图背景、配色、字体和页面结构，只修正局部排版、数据和控件。之前的重新设计版本不作为本次交付。
+保留原来的六个页面及其主要结构，统一按钮、卡片、颜色、字体和间距；删除照片背景、无标签工具栏、语音条、不清楚的时间尺和重复占位活动。
 
-- [原稿局部修改版与具体修改说明](original-touchup/README.md)
-- [下载原稿修改包](original-touchup/Original_Layout_Touchup.zip)
-- [查看修改前后对照](original-touchup/Before_After.png)
+- [查看当前六页效果](original-unified/After.png)
+- [查看原稿与当前版本对照](original-unified/Before_After.png)
+- [下载当前 SVG 修改包](original-unified/Unified_Original_Layout.zip)
+- [六页 PDF 预览](original-unified/Unified_Original_Preview.pdf)
+- [修改清单与 Figma 导入说明](original-unified/README.md)
 
-![保留原布局的修改版](original-touchup/After.png)
+![统一风格后的原六页](original-unified/After.png)
 
----
+在 Figma 新建 Page，导入包中的 screens 文件夹内六个 SVG，各自建立440×956 Frame，然后从 Figma 导出最终 PDF。
 
-# Still — Energy at your pace
-
-高保真、非交互的手机 App 设计，用于帮助慢性疲劳用户记录活动、观察症状和调整精力计划。
-
-![14 个界面总览](Still_Overview.png)
-
-## 下载设计
-
-- [完整 Figma 导入包](Still_Figma_Import.zip)：14 个 SVG 界面、PDF 预览及导入说明。
-- [PDF 预览](Still_Prototype_Preview.pdf)
-- [Figma 导入步骤与作业要求核对](README_交付说明.md)
-- [全部 SVG 界面](screens)
-
-打开文件后，使用 GitHub 的 Download raw file 按钮下载；也可使用仓库 Code → Download ZIP 下载全部文件。
-
-**此处 PDF 是本地生成的预览，并非 Figma 导出文件。**按课程要求，需将 SVG 导入 Figma，建立 390 × 844 的 Frame，再从 Figma 导出最终 PDF。尚未创建原生 Figma 文件或提交到 Canvas。
-
-本设计依据用户提供的作业整理文本制作；没有原始课程手册可供核对。可用性检查、数据说明和需求映射见交付说明。
-
-## 用户原稿修改版
-
-[查看新版设计及导入说明](revised/README.md) · [下载新版 SVG 设计包](revised/Revised_Figma_Import.zip)
-
-![修改版总览](revised/Revised_Overview.png)
+以前版本保留在 revised 和 original-touchup 文件夹中，不作为这次交付。
