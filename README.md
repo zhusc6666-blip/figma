@@ -1,3 +1,15 @@
+# 最新：基于用户原稿的局部修改版
+
+这次直接修改上传的六屏 SVG，保留原图背景、配色、字体和页面结构，只修正局部排版、数据和控件。之前的重新设计版本不作为本次交付。
+
+- [原稿局部修改版与具体修改说明](original-touchup/README.md)
+- [下载原稿修改包](original-touchup/Original_Layout_Touchup.zip)
+- [查看修改前后对照](original-touchup/Before_After.png)
+
+![保留原布局的修改版](original-touchup/After.png)
+
+---
+
 # Still — Energy at your pace
 
 高保真、非交互的手机 App 设计，用于帮助慢性疲劳用户记录活动、观察症状和调整精力计划。
