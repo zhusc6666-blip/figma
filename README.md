@@ -16,3 +16,9 @@
 **此处 PDF 是本地生成的预览，并非 Figma 导出文件。**按课程要求，需将 SVG 导入 Figma，建立 390 × 844 的 Frame，再从 Figma 导出最终 PDF。尚未创建原生 Figma 文件或提交到 Canvas。
 
 本设计依据用户提供的作业整理文本制作；没有原始课程手册可供核对。可用性检查、数据说明和需求映射见交付说明。
+
+## 用户原稿修改版
+
+[查看新版设计及导入说明](revised/README.md) · [下载新版 SVG 设计包](revised/Revised_Figma_Import.zip)
+
+![修改版总览](revised/Revised_Overview.png)
